@@ -42,15 +42,18 @@ body {
 
 p {
   color: white;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Cormorant SC', serif;
   margin: 8px;
   text-transform: uppercase;
 }
 
 .footer {
   margin: 1em;
-  font-size: 0.8em;
+  font-size: 1em;
   text-transform: none;
+}
+sup {
+  text-transform: lowercase ;
 }
 
 @media only screen and (max-width: 600px) {
